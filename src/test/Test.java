@@ -18,10 +18,7 @@ public class Test {
         System.out.println("Hola Mundo");
         int b=19;
         System.out.println(b);
-        if (true) {
-            
-        } else {
-        }
+      
     }
     
 }
