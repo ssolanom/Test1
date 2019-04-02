@@ -3,22 +3,26 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package test;
+import java.util.*;
+class xxh
 
+package test{
 /**
  *
  * @author Estudiante
  */
 public class Test {
-
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Scanner lectura=new
+                Scanner (System.in);
+        
         System.out.println("Hola Mundo");
         int b=19;
-        System.out.println(b);
-      
+        System.out.println("b");
+        }
     }
     
 }
